@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! Here are some of the projects or final class reports I've worked on, based on time:
 
-- 🔗[final class report: The Current State of Global Food Security](https://github.com/Hsu-Wei-Kuo/The-Current-State-of-Global-Food-Security)
+- 🔗[Final class report: The Current State of Global Food Security](https://github.com/Hsu-Wei-Kuo/The-Current-State-of-Global-Food-Security)
 
 
 
