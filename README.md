@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hsu-Wei-Kuo
+# 👋 Hi, I'm Hsu-Wei,Kuo
 
 Welcome to my portfolio! Here are some of the projects or final class reports I've worked on, based on time:
 
